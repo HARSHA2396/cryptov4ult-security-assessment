@@ -1,8 +1,8 @@
-# 🛡️ CryptoV4ult Security Assessment
+# 🛡️  cryptov4ult-security-assessment
 
-**Author:** T. Harsha Vardhan  
+**Author:** T. Harsha Vardhan 
 
-This project is a comprehensive security assessment report conducted for **CryptoV4ult**, an international cryptocurrency platform with over 1 million users. The aim is to identify, analyze, and mitigate security vulnerabilities in its infrastructure, including the application, containers, and API layers.
+The project focused on assessing and securing CryptoV4ult's application, container infrastructure, and APIs. It included integrating security into all SDLC phases and identifying vulnerabilities such as insecure authentication and container flaws. A detailed remediation plan was developed to enhance overall platform security.
 
 ---
 
@@ -20,10 +20,8 @@ As the lead security engineer, I evaluated the current security posture of Crypt
 ## 🧱 Project Structure
 
 - `docs/`: Project presentation and documentation files.
-- `reports/`: Threat matrix, vulnerability listings, scan outputs.
-- `screenshots/`: Screenshots of scans and tools used.
+- `Outputs/`: Screenshots of scans and tools,threat matrix, vulnerability listings, scan outputs.
 - `remediation/`: Documents with remediation strategies.
-- `.gitignore`: Files/folders to exclude from the repo.
 
 ---
 
